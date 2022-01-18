@@ -128,11 +128,11 @@ main {
     transition: var(--transition-speed) ease-in-out;
 }
 
-.logo svg > .fa-primary {
+.logo svg > .fa-group > .fa-primary {
     color: var(--orange);
 }
 
-.logo svg > .fa-secondary {
+.logo svg > .fa-group > .fa-secondary {
     color: var(--orange-secondary);
 }
   
