@@ -129,10 +129,10 @@ main {
     transition: var(--transition-speed) ease-in-out;
 }
   
-.logo-text {
+/* .logo-text {
     display: inline;
     position: absolute;
-}
+} */
   
 .navbar:hover .logo svg {
     transform: rotate(-360deg);
