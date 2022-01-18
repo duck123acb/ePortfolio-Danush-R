@@ -3,6 +3,10 @@
     font-size: 16px; 
     --black: #242325;
     --white: #DADAD9;
+    --green: #33a75c;
+    --green-secondary: #55e086;
+    --orange: #F06449;
+    --blue: #0B4F6C;
     --transition-speed: 200ms;
 }
 
@@ -85,11 +89,11 @@ main {
 }
 
 .fa-primary {
-    color: #33a75c;
+    color: var(--green);
 }
 
 .fa-secondary {
-    color: #55e086;
+    color: var(--green-secondary);
 }
 
 .fa-primary, .fa-secondary {
