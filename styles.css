@@ -2,13 +2,13 @@
     font-family: 'Poppins', sans-serif;
     font-size: 16px; 
     --black: #242325;
-    --bg-primary: #28282c;
+    --white: #DADAD9;
     --transition-speed: 200ms;
 }
 
 body {
     color: var(--black);
-    background-color: #DADAD9;
+    background-color: var(--white);
     margin: 0;
     padding: 0;
 }
@@ -34,8 +34,9 @@ main {
     width: 5rem;
     height: 100vh;
     position: fixed;
+    color: var(--white);
     background-color: var(--black);
-    transition: var(--transition-speed) ease;
+    transition: var(--transition-speed) ease-in-out;
 }
 
 .navbar-nav {
