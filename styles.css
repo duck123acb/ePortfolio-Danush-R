@@ -79,7 +79,7 @@ main {
 }
 
 .navbar:hover, .navbar:focus {
-    width: 10rem;
+    width: 13rem;
 }
 
 .navbar:hover .link-text {
