@@ -1,13 +1,13 @@
 *, *::before, *::after {
     font-family: 'Poppins', sans-serif;
     font-size: 16px; 
-    --text-primary: #b6b6b6;
-    --text-secondary: #ececec;
-    --bg-primary: #777DA7;
+    --text-primary: #242325;
+    --bg-primary: #28282c;
     --transition-speed: 200ms;
 }
 
 body {
+    color: var(--text-primary);
     background-color: #DADAD9;
     margin: 0;
     padding: 0;
