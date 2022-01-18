@@ -6,6 +6,7 @@
     --green: #33a75c;
     --green-secondary: #55e086;
     --orange: #F06449;
+    --orange-secondary: #f87358;
     --blue: #0B4F6C;
     --transition-speed: 200ms;
 }
@@ -124,8 +125,15 @@ main {
   
 .logo svg {
     transform: rotate(0deg);
-    color: var(--orange);
     transition: var(--transition-speed) ease-in-out;
+}
+
+.logo svg > .fa-primary {
+    color: var(--orange);
+}
+
+.logo svg > .fa-secondary {
+    color: var(--orange-secondary);
 }
   
 /* .logo-text {
