@@ -132,10 +132,8 @@ main {
 .logo-text {
     display: inline;
     position: absolute;
-    /* left: -999px; */
-    transition: var(--transition-speed);
 }
   
 .navbar:hover .logo svg {
-    transform: rotate(-360deg);
+    transform: rotate(-360deg) ease-in-out;
 } 
