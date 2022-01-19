@@ -6,6 +6,7 @@ section > div {
     display: flex;
     align-items: center;
     margin: auto;
+    gap: 10%;
 }
 
 .sites {
