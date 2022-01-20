@@ -1,0 +1,19 @@
+main {
+    padding: 0;
+}
+
+main > div {
+    padding: 2rem;
+}
+
+p {
+    margin: 0;
+}
+
+ol {
+    margin: 0;
+}
+
+main > ol > li {
+    margin: 2rem;
+}
