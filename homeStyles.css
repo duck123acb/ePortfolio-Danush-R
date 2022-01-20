@@ -6,6 +6,10 @@
     background-size: 1721px 1259px;
 }
 
+.top > span {
+    color: #DADAD9;
+}
+
 p, a {
     font-size: 25px;
 }
