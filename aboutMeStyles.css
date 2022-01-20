@@ -15,6 +15,10 @@ div:nth-child(2) {
     background-color: #F06449;
 }
 
+div:nth-child(3) {
+    background-color: #0B4F6C;
+}
+
 div:nth-child(4) {
     background-color: #33a75c;
 }
