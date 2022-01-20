@@ -11,7 +11,7 @@ section > div {
 
 .top {
     --img-width: 100%;
-    --img-height: 800px;
+    --img-height: 1000px;
     width: var(--img-width);
     height: var(--img-height);
     background-image: url("danush.png");
