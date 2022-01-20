@@ -1,15 +1,3 @@
-.top {
-    width: 1721px;
-    height: 1259px;
-    background-image: url("danush.png");
-    background-repeat: no-repeat;
-    background-size: 1721px 1259px;
-}
-
-.top > span {
-    color: #DADAD9;
-}
-
 p, a {
     font-size: 25px;
 }
@@ -19,6 +7,19 @@ section > div {
     align-items: center;
     margin: auto;
     gap: 10%;
+}
+
+.top {
+    width: 1721/2px;
+    height: 1259/2px;
+    background-image: url("danush.png");
+    background-repeat: no-repeat;
+    background-size: 1721/2px 1259/2px;
+}
+
+.top > span {
+    width: 50%;
+    color: #DADAD9;
 }
 
 .sites {
