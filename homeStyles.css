@@ -10,11 +10,13 @@ section > div {
 }
 
 .top {
-    width: 860.5px;
-    height: 629.5px;
+    --img-width: 1000px;
+    --img-height: 770px;
+    width: var(--img-width);
+    height: var(--img-height);
     background-image: url("danush.png");
     background-repeat: no-repeat;
-    background-size: 860.5px 629.5px;
+    background-size: var(--img-width) var(--img-height);
 }
 
 .top > span {
