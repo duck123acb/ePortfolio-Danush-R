@@ -10,7 +10,7 @@ section > div {
 }
 
 .top {
-    --img-width: 1000px;
+    --img-width: 100%;
     --img-height: 770px;
     width: var(--img-width);
     height: var(--img-height);
