@@ -31,4 +31,5 @@ section > div {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    background-color: #F06449;
 }
