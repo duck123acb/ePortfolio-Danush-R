@@ -11,7 +11,7 @@ section > div {
 
 .top {
     --img-width: 100%;
-    --img-height: 770px;
+    --img-height: 800px;
     width: var(--img-width);
     height: var(--img-height);
     background-image: url("danush.png");
@@ -19,7 +19,7 @@ section > div {
     background-size: var(--img-width) var(--img-height);
 }
 
-.top > span {
+.top > p {
     width: 50%;
     color: #DADAD9;
 }
