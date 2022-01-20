@@ -21,6 +21,7 @@ section > div {
 }
 
 .top > p {
+    padding: 2rem;
     width: 50%;
     color: #DADAD9;
 }
