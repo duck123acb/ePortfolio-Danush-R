@@ -13,5 +13,9 @@ div {
 }
 
 div:nth-child(1) {
-    background-color: orange;
+    background-color: #F06449;
+}
+
+div:nth-child(3) {
+    background-color: #33a75c;
 }
