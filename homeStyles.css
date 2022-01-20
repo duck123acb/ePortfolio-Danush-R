@@ -2,7 +2,7 @@ p, a {
     font-size: 25px;
 }
 
-section > div {
+section {
     display: flex;
     align-items: center;
     margin: auto;
