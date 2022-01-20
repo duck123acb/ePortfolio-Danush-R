@@ -1,7 +1,3 @@
-main {
-    padding: 0;
-}
-
 p, a {
     font-size: 25px;
 }
@@ -14,11 +10,11 @@ section > div {
 }
 
 .top {
-    width: 1721/2px;
-    height: 1259/2px;
+    width: 860.5px;
+    height: 629.5px;
     background-image: url("danush.png");
     background-repeat: no-repeat;
-    background-size: 1721/2px 1259/2px;
+    background-size: 860.5px 629.5px;
 }
 
 .top > span {
