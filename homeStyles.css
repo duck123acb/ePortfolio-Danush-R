@@ -1,5 +1,7 @@
 .top {
     background-image: url("danush.png");
+    background-repeat: no-repeat;
+    background-size: 430.25px 314.75px;
 }
 
 p, a {
