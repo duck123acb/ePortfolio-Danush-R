@@ -2,7 +2,7 @@ p, a {
     font-size: 25px;
 }
 
-section {
+.sites > div {
     display: flex;
     align-items: center;
     margin: auto;
