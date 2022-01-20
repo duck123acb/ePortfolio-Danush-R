@@ -14,6 +14,18 @@ ol {
     margin: 0;
 }
 
-main > ol > li{
+main > ol > li {
     margin: 2rem;
+}
+
+main > ol > li:nth-child(1) {
+    background-color: #33a75c;
+}
+
+main > ol > li:nth-child(2) {
+    background-color: #F06449;
+}
+
+main > ol > li:nth-child(1) {
+    background-color: #0B4F6C;
 }
