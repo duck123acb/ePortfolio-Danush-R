@@ -1,3 +1,7 @@
+main {
+    padding: 0 !important;
+}
+
 p, a {
     margin: 0;
     padding: 0;
