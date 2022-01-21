@@ -36,7 +36,7 @@ section > div {
 }
 
 #coconut {
-    visibility: hidden;
+    visibility: collapse;
 }
 
 #coconut:hover {
