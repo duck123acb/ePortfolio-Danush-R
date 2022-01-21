@@ -36,5 +36,9 @@ section > div {
 }
 
 #coconut {
-    display: none;
+    visibility: hidden;
+}
+
+#coconut:hover {
+    visibility: visible;
 }
