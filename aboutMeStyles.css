@@ -30,3 +30,7 @@ div > section {
     align-items: center;
     gap: 10%;
 }
+
+#jif:hover {
+    cursor: pointer;
+}
