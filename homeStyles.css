@@ -34,11 +34,3 @@ section > div {
     text-align: center;
     background-color: #F06449;
 }
-
-#coconut {
-    visibility: collapse;
-}
-
-#coconut:hover {
-    visibility: visible;
-}
